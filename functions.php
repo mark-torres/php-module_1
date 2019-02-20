@@ -2,5 +2,5 @@
 function echo1()
 {
 	// simple comment
-	echo "This is a test";
+	echo "This is a test\n";
 }
